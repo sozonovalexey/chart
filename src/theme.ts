@@ -1,5 +1,4 @@
 import { createTheme } from '@mui/material/styles';
-import { LinkProps } from '@mui/material/Link';
 
 const theme = createTheme({
   components: {
